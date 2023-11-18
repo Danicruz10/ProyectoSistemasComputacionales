@@ -8,7 +8,7 @@ import pandas as pd
 model = Model()
 
 # Paso 3: Ajustar el modelo con tus datos
-model.fit(data_path = '../../NewDatasetC.csv')
+model.fit(data_path = 'NewDatasetC.csv')
 
 # Lista de habilidades (asumo que las habilidades son identificadas por números, ajusta según sea necesario)
 skill_id = ['1', '2', '3', '4', '5']

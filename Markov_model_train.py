@@ -29,6 +29,3 @@ hidden_states = model.predict(observations)
 filename = 'trained_model'
 joblib.dump(model, filename)
 print(hidden_states)
-
-# Load the saved model
-loaded_model = joblib.load(filename)

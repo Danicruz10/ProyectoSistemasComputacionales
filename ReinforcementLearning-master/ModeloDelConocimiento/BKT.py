@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from EM import Parmetros
+from .EM import Parmetros
 
 
 
@@ -12,7 +12,7 @@ class BKT:
         self.p_T = Parmetros[skill]['P(T)']
         self.p_G = Parmetros[skill]['P(G)']
         self.p_S = Parmetros[skill]['P(S)']
-        self.p_Ct = 0
+        self.p_Ct = self.p_L*(1-(self.p_S)) + (1-(self.p_L))*self.p_G #se inicializa con los valores iniciales de los parametros de cada skill
         
 
     def Predict(self,correctAnswer): 
@@ -23,4 +23,7 @@ class BKT:
         self.p_L = (self.p_L_obs + ((1 - self.p_L_obs) * self.p_T))
         
         self.p_Ct = self.p_L*(1-(self.p_S)) + (1-(self.p_L))*self.p_G
+        return self.p_Ct
+    
+    def probabilty(self):
         return self.p_Ct
