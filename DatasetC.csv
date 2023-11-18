@@ -1,0 +1,121 @@
+user_id,CI,skill_id,skill_name,question_id,correct,emotion_id,emotion
+1,31753740,1,Presente Simple,1,1,6,Anger
+1,31753740,1,Presente Simple,2,0,6,Anger
+1,31753740,1,Presente Simple,3,0,6,Anger
+1,31753740,1,Presente Simple,4,1,6,Anger
+1,31753740,1,Presente Simple,5,1,6,Anger
+1,31753740,1,Presente Simple,6,1,0,Neutral
+1,31753740,2,Proposiciones,1,0,0,Neutral
+1,31753740,2,Proposiciones,2,0,0,Neutral
+1,31753740,2,Proposiciones,3,1,6,Anger
+1,31753740,2,Proposiciones,4,0,0,Neutral
+1,31753740,2,Proposiciones,5,0,6,Anger
+1,31753740,2,Proposiciones,6,1,6,Anger
+1,31753740,3,Pronombres sujetos,1,0,0,Neutral
+1,31753740,3,Pronombres sujetos,2,1,0,Neutral
+1,31753740,3,Pronombres sujetos,3,1,6,Anger
+1,31753740,3,Pronombres sujetos,4,1,0,Neutral
+1,31753740,3,Pronombres sujetos,5,0,0,Neutral
+1,31753740,3,Pronombres sujetos,6,1,0,Neutral
+1,31753740,4,Adverbios de frecuencia,1,0,0,Neutral
+1,31753740,4,Adverbios de frecuencia,2,0,0,Neutral
+1,31753740,4,Adverbios de frecuencia,3,1,0,Neutral
+1,31753740,4,Adverbios de frecuencia,4,1,6,Anger
+1,31753740,4,Adverbios de frecuencia,5,1,6,Anger
+1,31753740,4,Adverbios de frecuencia,6,1,6,Anger
+1,31753740,5,Artículos,1,1,0,Neutral
+1,31753740,5,Artículos,2,0,6,Anger
+1,31753740,5,Artículos,3,0,0,Neutral
+1,31753740,5,Artículos,4,1,6,Anger
+1,31753740,5,Artículos,5,0,0,Neutral
+1,31753740,5,Artículos,6,1,6,Anger
+2,32814180,1,Presente Simple,1,1,0,Neutral
+2,32814180,1,Presente Simple,2,1,0,Neutral
+2,32814180,1,Presente Simple,3,1,0,Neutral
+2,32814180,1,Presente Simple,4,1,0,Neutral
+2,32814180,1,Presente Simple,5,1,0,Neutral
+2,32814180,1,Presente Simple,6,1,0,Neutral
+2,32814180,2,Proposiciones,1,0,0,Neutral
+2,32814180,2,Proposiciones,2,0,0,Neutral
+2,32814180,2,Proposiciones,3,1,0,Neutral
+2,32814180,2,Proposiciones,4,0,0,Neutral
+2,32814180,2,Proposiciones,5,0,7,Contempt
+2,32814180,2,Proposiciones,6,1,7,Contempt
+2,32814180,3,Pronombres sujetos,1,1,0,Neutral
+2,32814180,3,Pronombres sujetos,2,1,0,Neutral
+2,32814180,3,Pronombres sujetos,3,1,0,Neutral
+2,32814180,3,Pronombres sujetos,4,1,0,Neutral
+2,32814180,3,Pronombres sujetos,5,1,0,Neutral
+2,32814180,3,Pronombres sujetos,6,0,0,Neutral
+2,32814180,4,Adverbios de frecuencia,1,0,0,Neutral
+2,32814180,4,Adverbios de frecuencia,2,1,0,Neutral
+2,32814180,4,Adverbios de frecuencia,3,0,0,Neutral
+2,32814180,4,Adverbios de frecuencia,4,1,0,Neutral
+2,32814180,4,Adverbios de frecuencia,5,1,0,Neutral
+2,32814180,4,Adverbios de frecuencia,6,1,0,Neutral
+2,32814180,5,Artículos,1,1,0,Neutral
+2,32814180,5,Artículos,2,1,0,Neutral
+2,32814180,5,Artículos,3,0,0,Neutral
+2,32814180,5,Artículos,4,0,7,Contempt
+2,32814180,5,Artículos,5,0,0,Neutral
+2,32814180,5,Artículos,6,0,7,Contempt
+3,33594621,1,Presente Simple,1,1,0,Neutral
+3,33594621,1,Presente Simple,2,1,0,Neutral
+3,33594621,1,Presente Simple,3,1,0,Neutral
+3,33594621,1,Presente Simple,4,0,0,Neutral
+3,33594621,1,Presente Simple,5,1,0,Neutral
+3,33594621,1,Presente Simple,6,0,0,Neutral
+3,33594621,2,Proposiciones,1,1,0,Neutral
+3,33594621,2,Proposiciones,2,1,0,Neutral
+3,33594621,2,Proposiciones,3,0,0,Neutral
+3,33594621,2,Proposiciones,4,1,0,Neutral
+3,33594621,2,Proposiciones,5,0,0,Neutral
+3,33594621,2,Proposiciones,6,1,0,Neutral
+3,33594621,3,Pronombres sujetos,1,1,0,Neutral
+3,33594621,3,Pronombres sujetos,2,1,0,Neutral
+3,33594621,3,Pronombres sujetos,3,1,0,Neutral
+3,33594621,3,Pronombres sujetos,4,1,0,Neutral
+3,33594621,3,Pronombres sujetos,5,1,0,Neutral
+3,33594621,3,Pronombres sujetos,6,1,0,Neutral
+3,33594621,4,Adverbios de frecuencia,1,1,0,Neutral
+3,33594621,4,Adverbios de frecuencia,2,1,0,Neutral
+3,33594621,4,Adverbios de frecuencia,3,1,0,Neutral
+3,33594621,4,Adverbios de frecuencia,4,1,0,Neutral
+3,33594621,4,Adverbios de frecuencia,5,0,0,Neutral
+3,33594621,4,Adverbios de frecuencia,6,1,0,Neutral
+3,33594621,5,Artículos,1,1,0,Neutral
+3,33594621,5,Artículos,2,0,0,Neutral
+3,33594621,5,Artículos,3,1,0,Neutral
+3,33594621,5,Artículos,4,0,0,Neutral
+3,33594621,5,Artículos,5,1,0,Neutral
+3,33594621,5,Artículos,6,1,0,Neutral
+4,33939029,1,Presente Simple,1,0,0,Neutral
+4,33939029,1,Presente Simple,2,0,0,Neutral
+4,33939029,1,Presente Simple,3,0,0,Neutral
+4,33939029,1,Presente Simple,4,0,0,Neutral
+4,33939029,1,Presente Simple,5,1,0,Neutral
+4,33939029,1,Presente Simple,6,1,0,Neutral
+4,33939029,2,Proposiciones,1,1,0,Neutral
+4,33939029,2,Proposiciones,2,1,0,Neutral
+4,33939029,2,Proposiciones,3,0,0,Neutral
+4,33939029,2,Proposiciones,4,0,0,Neutral
+4,33939029,2,Proposiciones,5,0,0,Neutral
+4,33939029,2,Proposiciones,6,0,0,Neutral
+4,33939029,3,Pronombres sujetos,1,1,0,Neutral
+4,33939029,3,Pronombres sujetos,2,1,0,Neutral
+4,33939029,3,Pronombres sujetos,3,1,0,Neutral
+4,33939029,3,Pronombres sujetos,4,1,0,Neutral
+4,33939029,3,Pronombres sujetos,5,0,0,Neutral
+4,33939029,3,Pronombres sujetos,6,1,0,Neutral
+4,33939029,4,Adverbios de frecuencia,1,1,0,Neutral
+4,33939029,4,Adverbios de frecuencia,2,1,0,Neutral
+4,33939029,4,Adverbios de frecuencia,3,1,0,Neutral
+4,33939029,4,Adverbios de frecuencia,4,1,0,Neutral
+4,33939029,4,Adverbios de frecuencia,5,0,0,Neutral
+4,33939029,4,Adverbios de frecuencia,6,1,0,Neutral
+4,33939029,5,Artículos,1,1,0,Neutral
+4,33939029,5,Artículos,2,1,0,Neutral
+4,33939029,5,Artículos,3,0,0,Neutral
+4,33939029,5,Artículos,4,0,0,Neutral
+4,33939029,5,Artículos,5,1,0,Neutral
+4,33939029,5,Artículos,6,0,0,Neutral
